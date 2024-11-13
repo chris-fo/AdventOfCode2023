@@ -1,1 +1,1 @@
-Solving excercises from https://adventofcode.com/2023
+Solving puzzles from https://adventofcode.com/2023 in PHP
